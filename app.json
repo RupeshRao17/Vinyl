@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Vinyl",
+    "slug": "vinyl",
+    "scheme": "vinyl",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#fcf9f3"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
